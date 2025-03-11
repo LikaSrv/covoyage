@@ -15,11 +15,31 @@ export const getSEOTags = ({
 } = {}) => {
   return {
     // up to 50 characters (what does your app do for the user?) > your main should be here
-    title: title || config.appName,
+    title: title || "Effortless Group Travel Planning App",
     // up to 160 characters (how does your app help the user?)
     description: description || config.appDescription,
     // some keywords separated by commas. by default it will be your app name
-    keywords: keywords || [config.appName],
+    keywords: keywords || [
+      "group travel planning app",
+      "collaborative trip organizer",
+      "travel itinerary planner",
+      "group trip management",
+      "shared travel planning tool",
+      "road trip planner",
+      "team travel coordination",
+      "destination wedding organizer",
+      "family vacation planner",
+      "Collaborative travel planning platform for families",
+      "Best app for organizing group vacations",
+      "How to plan a group trip online",
+      "Tools for coordinating travel with friends",
+      "Group travel itinerary planner with Google Maps integration",
+      "Collaborative trip organizer for European destinations",
+      "Group travel planning app in France",
+      "Group travel app for adventure trips",
+      "Corporate team-building trip planner",
+      "Sports team travel management app",
+    ],
     applicationName: config.appName,
     // set a base URL prefix for other fields that require a fully qualified URL (.e.g og:image: og:image: 'https://yourdomain.com/share.png' => '/share.png')
     metadataBase: new URL(
