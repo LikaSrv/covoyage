@@ -26,7 +26,7 @@ const Hero = () => {
         CoVoyage brings all your trip details together.
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
-        No more lost info, no more endless questions—just smooth, easy travel planning with friends and family!
+        Save time on logistics. CoVoyage keeps your clients up to date — no more lost info, no more endless questions — just smooth, easy travel planning with friends and family!
         </p>
         <ButtonLead />
         {/* <TestimonialsAvatars priority={true} /> */}
