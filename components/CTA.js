@@ -15,11 +15,10 @@ const CTA = () => {
       <div className="relative hero-content text-center text-neutral-content p-8">
         <div className="flex flex-col items-center max-w-xl p-8 md:p-0">
           <h2 className="font-bold text-3xl md:text-5xl tracking-tight mb-8 md:mb-12">
-            Boost your app, launch, earn
+          Modernize the way your agency manages group trips
           </h2>
           <p className="text-lg opacity-80 mb-12 md:mb-16">
-            Don&apos;t waste time integrating APIs or designing a pricing
-            section...
+          Stop juggling WhatsApp groups, PDFs and email threads. With Covoyage, you offer your clients a seamless, branded, and mobile-first experience — while saving your team hours of coordination.
           </p>
 
           <ButtonLead />

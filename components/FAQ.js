@@ -8,15 +8,30 @@ import { useRef, useState } from "react";
 const faqList = [
   {
     question: "What do I get exactly?",
-    answer: <div className="space-y-2 leading-relaxed">Loreum Ipseum</div>,
+    answer: <div className="space-y-2 leading-relaxed">Covoyage gives your agency a simple and professional tool to manage group trips and enhance your client experience.
+    <br />
+    You can:
+    <br /> - Create branded trip pages for each group
+    <br /> - Share itineraries, schedules, activities, and meeting points
+    <br /> - Enable real-time group chat and notifications
+    <br /> - Keep everyone informed and engaged — without emails or messy group chats
+
+    <br />Each trip is easy to set up and fully collaborative. Your clients access everything from their phones, and you stay in control of the information. It’s a modern, stress-free way to manage travel groups.</div>,
   },
   {
-    question: "Can I get a refund?",
+    question: "How do updates work?",
     answer: (
       <p>
-        Yes! You can request a refund within 7 days of your purchase. Reach out
-        by email.
+        All major updates are automatically rolled out to users. Covoyage includes mandatory updates to ensure every group member is always using the latest version. That means no one misses out on new features, improvements, or important trip info — everyone stays on the same page.
       </p>
+    ),
+  },
+  {
+    question: "Is there any long-term commitment?",
+    answer: (
+      <p>
+No. Covoyage offers a flexible monthly subscription with no long-term contract. You can upgrade, downgrade, or cancel at any time — no strings attached. We believe in earning your trust through value, not lock-ins.
+</p>
     ),
   },
   {
