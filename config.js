@@ -29,9 +29,8 @@ const config = {
         price: 45,
         priceAnchor: 45,
         features: [
-          {
-            name: "Unlimited trip groups",
-          },
+          { name: "Unlimited trip groups",},
+          { name: "Centralized dashboard to manage all your trips, travelers, and content",},
           { name: "Automatic alerts to keep your clients informed in real time" },
           { name: "Share your own recommendations with all travelers" },
           { name: "Export to PDF" },
