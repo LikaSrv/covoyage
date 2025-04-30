@@ -54,7 +54,7 @@ const ButtonLead = ({ extraStyle }) => {
         type="submit"
         disabled={isDisabled}
       >
-        Join waitlist
+        Want to know more?
         {isLoading ? (
           <span className="loading loading-spinner loading-xs"></span>
         ) : (
