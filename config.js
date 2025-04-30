@@ -24,18 +24,17 @@ const config = {
           process.env.NODE_ENV === "development"
             ? "price_1O5KtcAxyNprDp7iftKnrrpw"
             : "price_456",
-        name: "Explorer",
-        description: "For travel addicts or group organizers",
-        price: 15,
-        priceAnchor: 15,
+        name: "PREMIUM",
+        description: "For group organizers",
+        price: 45,
+        priceAnchor: 45,
         features: [
           {
             name: "Unlimited trip groups",
           },
-          { name: "Early access to new features" },
-          { name: "Export to PDF / advanced sharing" },
-          { name: "Multi-organizer management" },
-          { name: "White label option (future upgrade)" },
+          { name: "Automatic alerts to keep your clients informed in real time" },
+          { name: "Share your own recommendations with all travelers" },
+          { name: "Export to PDF" },
           { name: "Premium support" },
         ],
       },
