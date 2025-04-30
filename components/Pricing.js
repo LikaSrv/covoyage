@@ -57,7 +57,7 @@ const Pricing = () => {
                     </div>
                   )}
                   <p className={`text-5xl tracking-tight font-extrabold`}>
-                    ${plan.price}
+                    €{plan.price}
                   </p>
                   <div className="flex flex-col justify-end mb-[4px]">
                     <p className="text-xs text-base-content/60 uppercase font-semibold">
@@ -90,7 +90,7 @@ const Pricing = () => {
                 <div className="space-y-2">
                 <ButtonLead extraStyle="!max-w-none !w-full" />
 
-                  
+
                 </div>
               </div>
             </div>
