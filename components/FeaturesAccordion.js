@@ -12,9 +12,9 @@ import Image from "next/image";
 // - alt: The alt text of the image (if type is 'image')
 const features = [
   {
-    title: "Trips",
+    title: "Mobile App for Travelers",
     description:
-      "Create trips and destinations, add friends to the destinations that they plan to join. They will be able to insert theirs own information like arrival time, departure time, hotel they plan to stay...",
+      "Create trips and destinations, then invite travelers to join the ones they plan to attend. Each traveler can add their own details — arrival time, departure time, accommodation plans, and more.",
     type: "video",
     path: "https://ubiqyjjinioqdiorfepy.supabase.co/storage/v1/object/public/images//Design%20sans%20titre%20(1).mp4",
     format: "video/webm",
@@ -62,7 +62,7 @@ const features = [
   {
     title: "Recommandations",
     description:
-      "If the country matches, you will be see all recommandations from the other members. You can also add your own recommandations. You will be surprise to see true hidden gems.",
+      "Agency can share their own recommendations with all travelers — a great way to showcase local expertise and gain visibility. Whether it’s a hidden café, a scenic viewpoint, or a trusted partner, your tips help create memorable experiences for your clients.",
     type: "image",
     path: "https://ubiqyjjinioqdiorfepy.supabase.co/storage/v1/object/public/images//Design%20sans%20titre%20(4).png",
     svg: (
@@ -83,10 +83,12 @@ const features = [
     ),
   },
   {
-    title: "Share expenses to come",
+    title: "All in one dashboard",
     description:
-      "The whole trip will be able to calculate the expenses. You will be able to see who owes money to who. You will be able to see the total expenses of the trip and the expenses of each member. (in progress)",
-    svg: (
+      "Plan, organize, and manage every group trip from a single, intuitive interface. Create trips, define itineraries, manage participants, share updates, and handle communication — all in one place.",
+    type: "image",
+    path:"https://ubiqyjjinioqdiorfepy.supabase.co/storage/v1/object/public/images//Design%20sans%20titre.jpg",
+      svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
@@ -199,9 +201,9 @@ const FeaturesAccordion = () => {
     >
       <div className="px-8">
         <h2 className="font-extrabold text-4xl lg:text-6xl tracking-tight mb-12 md:mb-24">
-        All you need to organize a group trip
+        Simplify group travel management and impress your clients —
           <span className="bg-neutral text-neutral-content px-2 md:px-4 ml-1 md:ml-1.5 leading-relaxed whitespace-nowrap">
-            and enjoy !
+          every time !
           </span>
         </h2>
         <div className=" flex flex-col md:flex-row gap-12 md:gap-24">
