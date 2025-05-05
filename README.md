@@ -1,39 +1,82 @@
-# ShipFast — Javascript
+# Covoyage
 
-Hey maker 👋 it's Marc from [ShipFast](https://shipfa.st/docs). Let's get your startup off the ground, FAST ⚡️
+**Covoyage** est une application mobile tout-en-un dédiée aux **agences de voyages** qui souhaitent centraliser et partager facilement les informations de voyage avec leurs clients.
 
-<sub>**Watch/Star the repo to be notified when updates are pushed**</sub>
+> ✈️ Simplifiez la gestion de groupe. Offrez une expérience premium à vos voyageurs.
 
-## Get Started
+---
 
-1. Follow the [Get Started Tutorial](https://shipfa.st/docs) to clone the repo and run your local server 💻
+## ✨ Fonctionnalités principales
 
-<sub>**Looking for the /pages router version?** Use this [documentation](https://shipfa.st/docs-old) instead</sub>
+- 📅 **Calendrier du voyage** : étapes, dates, horaires
+- 📍 **Points de rendez-vous géolocalisés**
+- 💬 **Chats par destination** : pour chaque groupe, un fil de discussion dédié
+- 📸 **Partage de photos et vidéos**
+- 🔔 **Notifications en temps réel** (retards, changements, infos importantes)
+- 💡 **Suggestions de lieux** à visiter (restaurants, activités, etc.)
+- 💰 **Gestion des dépenses entre voyageurs**
 
-2. Follow the [Ship In 5 Minutes Tutorial](https://shipfa.st/docs/tutorials/ship-in-5-minutes) to learn the foundation and ship your app quickly ⚡️
+---
 
-## Links
+## 👤 Pour qui ?
 
--   [📚 Documentation](https://shipfa.st/docs)
--   [📣 Updates](https://shipfast.beehiiv.com/)
--   [🧑‍💻 Discord](https://shipfa.st/dashboard)
--   [🥇 Leaderboard](https://shipfa.st/leaderboard)
+- Agences de voyages (tourisme, scolaire, événementiel)
+- Guides et accompagnateurs de groupes
+- Associations ou comités d'entreprise
 
-## Support
+---
 
-Reach out at hello@shipfa.st
+## 💼 Offre commerciale
 
-Let's ship it, FAST ⚡️
+- **15€ / mois** / agence
+- Nombre de voyageurs illimité
+- Accès à toutes les fonctionnalités
+- Aucun engagement
 
-\_
+---
 
-**📈 Grow your startup with [DataFast](https://datafa.st?ref=shipfast_readme)**
+## 🚀 Lien de test
 
--   Analyze your traffic
--   Get insights on your customers
--   Make data-driven decisions
+L'app est disponible gratuitement pour test :
 
-ShipFast members get 30% OFF on all plans! 🎁
+➡️ [Lien vers l'app Covoyage](https://www.covoyage.app)
 
-![datafast](https://github.com/user-attachments/assets/a6e78034-701a-49f1-a297-d33590f963be)
+---
+
+## 🛠️ Stack technique
+
+- **Frontend** : FlutterFlow
+- **Backend** : Firebase / Firestore
+- **Notifications** : Firebase Cloud Messaging
+- **Hébergement** : Vercel (landing page)
+
+---
+
+## 🔗 Liens utiles
+
+- [Site web (à venir)](https://www.covoyage.app)
+- Contact : hello@covoyage.app
+
+---
+
+## 📸 Aperçu (à ajouter)
+
+Ajoutez ici des captures d’écran ou une démo vidéo de l’application pour plus d’impact visuel.
+
+---
+
+## 📌 Roadmap
+
+- [ ] Interface web pour les agences
+- [ ] Système de documents partagés
+- [ ] Paiement intégré
+- [ ] Recommandations personnalisées par profil
+
+---
+
+## 🤝 Contribuer
+
+Nous sommes une petite équipe de freelances passionnés. N’hésitez pas à nous contacter pour collaborer ou donner votre avis.
+
+---
 
