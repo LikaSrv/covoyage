@@ -37,9 +37,9 @@ const features = [
   {
     title: "Chats",
     description:
-      "Each destination has it own group chat. It allows destination members to chat, share photos, videos, and plan activities.",
+      "Each trip includes a main chat, enabling direct communication between the travel agency and all participants — perfect for sharing updates, last-minute changes, or answering questions in real time. Each destination has its own group chat, allowing travelers to communicate, share photos and videos, and plan activities together.",
     type: "image",
-    path: "https://ubiqyjjinioqdiorfepy.supabase.co/storage/v1/object/public/images//Design%20sans%20titre%20(5).png",
+    path: "https://ubiqyjjinioqdiorfepy.supabase.co/storage/v1/object/public/images//chat.jpg",
     className: "object-contain",
     alt: "Chat",
     svg: (
