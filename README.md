@@ -28,7 +28,7 @@
 
 ## 💼 Offre commerciale
 
-- **15€ / mois** / agence
+- **45€ / mois** / agence
 - Nombre de voyageurs illimité
 - Accès à toutes les fonctionnalités
 - Aucun engagement
