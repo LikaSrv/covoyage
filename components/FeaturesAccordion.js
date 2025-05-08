@@ -64,7 +64,7 @@ const features = [
     description:
       "Agency can share their own recommendations with all travelers — a great way to showcase local expertise and gain visibility. Whether it’s a hidden café, a scenic viewpoint, or a trusted partner, your tips help create memorable experiences for your clients.",
     type: "image",
-    path: "https://ubiqyjjinioqdiorfepy.supabase.co/storage/v1/object/public/images//Design%20sans%20titre%20(4).png",
+    path: "https://ubiqyjjinioqdiorfepy.supabase.co/storage/v1/object/public/images//recommandations.jpg",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
